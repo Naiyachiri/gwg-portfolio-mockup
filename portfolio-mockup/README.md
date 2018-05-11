@@ -1,6 +1,7 @@
 # Porfolio Mockup
 
 This is my submission for project 1 of the Udacity Front-End Developer Nanodegree.
+To view the project go to subdirectory 'html' and open the 'index.html' file.
 
 ## Specifications
 
